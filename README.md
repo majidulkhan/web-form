@@ -1,5 +1,4 @@
-# web-form
-<!DOCTYPE html>
+
 <html lang="en">
 <head>
         <title>lab 2</title>
